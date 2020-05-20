@@ -1,1 +1,1 @@
-const code = [];
+alert('I exist!')
